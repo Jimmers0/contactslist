@@ -1,0 +1,122 @@
+.largepic {
+    border-radius: 80px;
+    border: 5px solid black;
+    box-shadow: 0px 0px 10px black;
+}
+
+.picbox {
+    width: 500px;
+    height: 170px;
+    border: 5px solid black;
+    background-color: gray;
+    text-align: center;
+    line-height: 200px;
+    box-shadow: 0px 0px 10px black;
+
+
+}
+
+.smallpic {
+    border-radius: 50px;
+    margin-top: -3px;
+    border: 3px solid black;
+    position: relative;
+    left:-3px;
+}
+
+.mainul {
+    list-style: none;
+}
+
+.contactmain {
+    display: flex;
+    
+
+
+}
+
+.contactname {
+    margin-left: 20px;
+    padding-top: 15px;
+    text-decoration: none;
+    font-size: 18px;
+   
+}
+
+Link {
+    text-decoration: none;
+}
+
+.contactmain {
+    margin-bottom: 20px;
+    background: gray;
+    border-radius: 50px;
+    width: 300px;
+    border: 3px solid black;
+    height: 50px;
+    box-shadow: 0 0 10px grey;
+
+}
+
+.contactmain:hover {
+    margin-bottom: 20px;
+    background: black;
+    border-radius: 50px;
+    width: 300px;
+    border: 3px solid black;
+    height: 50px;
+    box-shadow: 0 0 10px grey;
+    color: white;
+
+}
+
+.peeps {
+    padding-bottom: 20px;
+    padding-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.name {
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+
+.fname {
+    padding-left: 5px;
+}
+
+.lname {
+    padding-left: 5px;
+}
+
+.email {
+    padding-left: 5px;
+}
+
+.emailbox {
+    display: flex;
+    padding-top: 20px;
+}
+
+.phone {
+    padding-left: 5px;
+
+}
+
+.city {
+    padding-left: 5px;
+
+}
+
+.phonebox {
+    display: flex;
+    padding-top: 20px;
+}
+
+.citybox {
+    display: flex;
+    padding-top: 20px;
+}
